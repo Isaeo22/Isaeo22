@@ -1,5 +1,18 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/KCRbidWxXc610MM5oU/giphy.gif" width="30">
+<p align="center"><img src="https://media.giphy.com/media/TLnWsIBRegQyWxG4Dw/giphy.gif" width="200"/></p>
+<p align="center">
+  
+🐣About Me :
 
+Hello, I'm Isa.
+
+
+- 🔭 I am currently finishing my degree in Game design and development at Rey Juan Carlos University in Madrid. <img src="https://media.giphy.com/media/P0GMZKMhcY19SWdQhU/giphy.gif" width="30">
+- 💖 I enjoy programming video games in both 3D and 2D.
+- 😎 The game engine that I use the most is Unity and the language C#.
+- 📫 How to reach me: Email: isaeo22@gmail.com
+
+---
 <!--
 **Isaeo22/Isaeo22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
