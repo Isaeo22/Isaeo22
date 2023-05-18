@@ -10,7 +10,8 @@ Hello, I'm Isa.
 - 🔭 I am currently finishing my degree in Game design and development at Rey Juan Carlos University in Madrid. <img src="https://media.giphy.com/media/P0GMZKMhcY19SWdQhU/giphy.gif" width="30">
 - 💖 I enjoy programming video games in both 3D and 2D.
 - 😎 The game engine that I use the most is Unity and the language C#.
-- 📫 How to reach me: Email: isaeo22@gmail.com
+- 📫 How to reach me: Email: isaeo22@gmail.com     Linkedin: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Isaeo22-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isabel-escudero-orden-b6836a171/)
+
 
 ---
 <!--
